@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Log in",
+  "Type": "Screen",
+  "Id": "lptHWGbBfk6eCy97Ap8-TQ",
+  "Reference": "1zJ4DExQQk6h2X75RtUjvw/lptHWGbBfk6eCy97Ap8-TQ",
+  "ParentRef": "1zJ4DExQQk6h2X75RtUjvw/T1PKwH-zrE-6lmwMCFsYcw",
+  "Created": "2024-09-04T21:01:55.8008588Z",
+  "Updated": "2024-09-04T21:01:55.8008588Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

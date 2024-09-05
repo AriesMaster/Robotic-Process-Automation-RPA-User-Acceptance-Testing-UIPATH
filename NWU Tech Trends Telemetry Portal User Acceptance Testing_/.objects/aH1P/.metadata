@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Log in",
+  "Type": "App",
+  "Id": "aH1PMTk0V0a1IMS9YEekpg",
+  "Reference": "1zJ4DExQQk6h2X75RtUjvw/aH1PMTk0V0a1IMS9YEekpg",
+  "Created": "2024-09-04T21:01:55.6559648Z",
+  "Updated": "2024-09-04T21:01:55.6559648Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
